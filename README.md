@@ -1,4 +1,4 @@
-Contact: <span>nikotantiger</span><span>@</span><span>gmail.com</span>
+Contact: <span>nikotantiger</span><span>@</span><span>gmail.com</span>/n
 Contact: <span>qubeley0314</span><span>@</span><span>gmail.com</span>
 <!--
 **k-kosei314/k-kosei314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
